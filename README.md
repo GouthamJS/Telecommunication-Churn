@@ -40,7 +40,7 @@ Customer churn is a critical challenge in the telecom industry, where retaining 
 - Scikit-learn – for machine learning models
 - XGBoost – for gradient boosting model
 - Streamlit – for building an interactive web app
-- Google Colab – for development & experimentation
+- Jupyter Notebook/Google Colab – for development & experimentation
 
 ---
 
