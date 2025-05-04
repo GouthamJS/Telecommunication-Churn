@@ -1,6 +1,6 @@
 # Telecommunication-Churn
 
-##🔍 Project Overview
+## 🔍 Project Overview
 Customer churn is a critical challenge in the telecom industry, where retaining existing customers is more cost-effective than acquiring new ones. This project aims to build a machine learning model that predicts whether a customer is likely to churn based on their usage patterns, service subscriptions, and demographic details. By identifying churn-prone users in advance, telecom companies can design targeted retention strategies and improve customer satisfaction.
 
 ---
@@ -16,10 +16,10 @@ Customer churn is a critical challenge in the telecom industry, where retaining 
 - Total Records: 5,000+ customers
 - Target Variable: Churn – indicates whether the customer has left (Yes/No)
 - Features Include:
-    Demographics: Gender, SeniorCitizen, Partner, Dependents
-    Account Info: Tenure, Contract, MonthlyCharges, TotalCharges
-    Services: InternetService, OnlineSecurity, TechSupport, StreamingTV, etc.
-    Payment Info: PaymentMethod, PaperlessBilling
+    - Demographics: Gender, SeniorCitizen, Partner, Dependents
+    - Account Info: Tenure, Contract, MonthlyCharges, TotalCharges
+    - Services: InternetService, OnlineSecurity, TechSupport, StreamingTV, etc.
+    - Payment Info: PaymentMethod, PaperlessBilling
   
 ---
 
